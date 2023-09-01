@@ -3,10 +3,10 @@
     
 </div>
 <br>
+<h3>Basket-Analysis</h3>
 
 ```python
 
-### Basket-Analysis
-This is a data mining technique used by retailers to increase sales by better understanding customer purchasing patterns.
+"Basket Analysis" or "Market Basket analysis" is a data mining technique used by retailers to increase sales by better understanding customer purchasing patterns.
 
 This Repo has carries files for basket analysis done for Groceries data in Power BI
